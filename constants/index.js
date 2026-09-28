@@ -19,55 +19,55 @@ const navLinks = [
 
 const cocktailLists = [
   {
-    name: 'Chapel Hill Shiraz',
-    country: 'AU',
-    detail: 'Battle',
-    price: '$10'
+    name: 'Mojito',
+    country: 'CU',
+    detail: 'Mint, lime & rum',
+    price: 'R85'
   },
   {
-    name: 'Caten Malbee',
-    country: 'AU',
-    detail: 'Battle',
-    price: '$49'
+    name: 'Margarita',
+    country: 'MX',
+    detail: 'Tequila, lime & orange liqueur',
+    price: 'R90'
   },
   {
-    name: 'Rhino Pale Ale',
-    country: 'CA',
-    detail: '750 ml',
-    price: '$20'
+    name: 'Amarula Espresso Martini',
+    country: 'ZA',
+    detail: 'Amarula, vodka & espresso',
+    price: 'R95'
   },
   {
-    name: 'Irish Guinness',
-    country: 'IE',
-    detail: '600 ml',
-    price: '$29'
+    name: 'Strawberry Daiquiri',
+    country: 'CU',
+    detail: 'Strawberry, lime & rum',
+    price: 'R90'
   }
 ]
 
 const mockTailLists = [
   {
-    name: 'Tropical Bloom',
-    country: 'US',
-    detail: 'Battle',
-    price: '$10'
+    name: 'Tropical Sunset',
+    country: 'ZA',
+    detail: 'Pineapple, orange & grenadine',
+    price: 'R65'
   },
   {
-    name: 'Passionfruit Mint',
-    country: 'US',
-    detail: 'Battle',
-    price: '$49'
+    name: 'Passionfruit Spritz',
+    country: 'ZA',
+    detail: 'Passionfruit, lime & soda',
+    price: 'R70'
   },
   {
-    name: 'Citrus Glow',
-    country: 'CA',
-    detail: '750 ml',
-    price: '$20'
+    name: 'Strawberry Mojito',
+    country: 'ZA',
+    detail: 'Strawberry, mint & lime',
+    price: 'R65'
   },
   {
-    name: 'Lavender Fizz',
-    country: 'IE',
-    detail: '600 ml',
-    price: '$29'
+    name: 'Rooibos Fizz',
+    country: 'ZA',
+    detail: 'Rooibos, lemon & sparkling water',
+    price: 'R60'
   }
 ]
 
@@ -137,35 +137,35 @@ const socials = [
 const sliderLists = [
   {
     id: 1,
-    name: 'Classic Mojito',
+    name: 'Passionfruit Martini',
     image: '/images/drink1.png',
-    title: 'Simple Ingredients, Bold Flavor',
+    title: 'Tropical, Tangy & Irresistible',
     description:
-      'Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.'
+      'A silky blend of vodka, passionfruit, and vanilla with a bright citrus finish. Tropical, smooth, and made for a night out.'
   },
   {
     id: 2,
-    name: 'Raspberry Mojito',
+    name: 'Watermelon Cooler',
     image: '/images/drink2.png',
-    title: 'A Zesty Classic That Never Fails',
+    title: 'Fresh, Juicy & Refreshing',
     description:
-      'The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.'
+      'Fresh watermelon meets vodka, lime, and a hint of mint in this crisp and refreshing cocktail. Light, fruity, and perfect for sunny days.'
   },
   {
     id: 3,
-    name: 'Violet Breeze',
+    name: 'Strawberry Sunset',
     image: '/images/drink3.png',
-    title: 'Simple Ingredients, Bold Flavor',
+    title: 'Sweet, Fruity & Vibrant',
     description:
-      'Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.'
+      'Fresh strawberries, pineapple, and a splash of citrus come together in this bright and juicy cocktail with a smooth, refreshing finish.'
   },
   {
     id: 4,
-    name: 'Curacao Mojito',
+    name: 'Sunset Spritz',
     image: '/images/drink4.png',
-    title: 'Crafted With Care, Poured With Love',
+    title: 'Bright, Citrus & Refreshing',
     description:
-      "Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing."
+      'A vibrant blend of orange, passionfruit, and sparkling bubbles with a splash of citrus. Fresh, fruity, and made to brighten your evening.'
   }
 ]
 
